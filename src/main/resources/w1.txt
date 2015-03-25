@@ -1,0 +1,4 @@
+# 1-letter English words
+a
+i
+o
